@@ -1,4 +1,4 @@
-const licenseKey = require('./newrelic_licence.js');
+const licenseKey = require('./newrelic_license_key.js');
 'use strict'
 /**
  * New Relic agent configuration.
