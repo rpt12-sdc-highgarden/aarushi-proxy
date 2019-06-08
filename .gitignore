@@ -24,3 +24,6 @@ coverage
 build/
 dist/
 
+# new relic licence
+newrelic_licence.js
+
