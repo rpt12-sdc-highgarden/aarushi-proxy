@@ -10,5 +10,5 @@ scenarios:
     flow:
       - loop: 
         - get:
-            url: "/author/{{ $randomNumber(9999000, 10000000) }}"
-        count: 10
+            url: "/{{ $randomNumber(9999000, 10000000) }}/"
+        count: 1000
